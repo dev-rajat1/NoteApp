@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#673DB1</color>       <!-- Title / text color -->
+    <color name="accent">#FBC02D</color>        <!-- FAB / Button color -->
+    <color name="background">#F9F9F9</color>    <!-- App background -->
+    <color name="cardBg">#FFFFFF</color>        <!-- Card background -->
+    <color name="textSecondary">#666666</color> <!-- Subtext color -->
+    <color name="deleteRed">#E53935</color>     <!-- Delete button -->
+</resources>
