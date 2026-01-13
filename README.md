@@ -50,3 +50,12 @@ Dark mode
 
 Cloud backup
 
+---
+## 👨‍💻 Developed By
+
+Rajat Nishad
+
+Android App Developer
+
+LinkedIn: https://linkedin.com/in/rajat-nishad
+
