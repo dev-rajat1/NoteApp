@@ -1,4 +1,4 @@
-# Notes App
+# Notes App (ROOM DATABSE)
 
 An Android Notes Application built using Kotlin that allows users to create, update, delete, and manage notes efficiently using local storage.
 
